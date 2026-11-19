@@ -7,3 +7,4 @@ Posts:
     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+I am adding more info in here 
